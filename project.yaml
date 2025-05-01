@@ -1,8 +1,8 @@
 basic:
     name: AFS
     environments:
-        production: 'https://moderncasting.com/'
-        staging: 'https://test-modern-casting.pantheonsite.io/'
+        production: 'https://afsinc.org/'
+        staging: 'https://test-afsinc.pantheonsite.io/'
         development: ''
     breakpoints:
         - 640
@@ -10,19 +10,19 @@ basic:
         - 1200
     pages:
         - /
-        - subscribe
-        - issues/april-2025
-        - advertising
-        - articles/industry-news
-        - issues
-        - photo-galleries
-        - columns
-        - classifieds
-        - casting-competition
-        - column/2025/03/11/foundries-are-leaders-environmental-quality
+        - message-ceo
+        - mission
+        - board-of-directors
+        - staff
+        - speakers-bureau
+        - membership-roi
+        - corporate-members-list
+        - proud-member-logos
+        - code-conduct
         - contact-us
-        - privacy-policy
         - sitemap
+        - nimble_user/oauth/login
+        - afs-copyright-policy-terms-use-and-prohibition-use-generative-artificial-intelligence-ai
     monitoring:
         days: {  }
         type: ''
