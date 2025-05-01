@@ -10,19 +10,19 @@ basic:
         - 1200
     pages:
         - /
-        - index.php/issues/marchapril-2025
-        - index.php/advertising
-        - index.php/articles/industry-news
-        - index.php/metalcaster-directory
-        - index.php/photo-galleries
-        - index.php/columns
-        - index.php/subscribe
-        - index.php/casting-competition
-        - index.php/issues/metalcaster-prospectus-2023
-        - articles/2025/03/21/casting-stronger-bonds-why-manufacturer-foundry-relationships-matter
-        - column/alternatives-arm-wrestling
-        - index.php/contact-us
-        - index.php/privacy-policy
+        - subscribe
+        - issues/april-2025
+        - advertising
+        - articles/industry-news
+        - issues
+        - photo-galleries
+        - columns
+        - classifieds
+        - casting-competition
+        - column/2025/03/11/foundries-are-leaders-environmental-quality
+        - contact-us
+        - privacy-policy
+        - sitemap
     monitoring:
         days: {  }
         type: ''
