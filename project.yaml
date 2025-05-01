@@ -9,7 +9,6 @@ basic:
         - 1024
         - 1200
     pages:
-        - /
         - message-ceo
         - mission
         - board-of-directors
@@ -17,8 +16,9 @@ basic:
         - speakers-bureau
         - membership-roi
         - corporate-members-list
-        - proud-member-logos
-        - code-conduct
+        - careers-afs
+        - get-involved
+        - faqs
         - contact-us
         - sitemap
         - nimble_user/oauth/login
